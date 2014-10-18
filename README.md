@@ -48,6 +48,8 @@ the included scripts pay no mind to swapping multiple containers - only one
 container is running at any given time. Another option not taken is running
 Nginx inside of a container itself. That is left as an exercise for the reader.
 
+## License
+
 ```
 The MIT License (MIT)
 
